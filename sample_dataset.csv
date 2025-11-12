@@ -1,0 +1,8 @@
+Name,Age,Gender,Salary,Department
+Alice,25,F,50000,HR
+Bob,28,M,54000,IT
+Charlie,NaN,M,NaN,Finance
+David,35,malee,72000,IT
+Eva,29,Fem,NaN,HR
+Frank,42,M,90000,Finance
+Grace,NaN,F,120000,IT
